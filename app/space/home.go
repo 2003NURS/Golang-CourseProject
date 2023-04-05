@@ -1,5 +1,5 @@
 // "\app\space\home.go"
-package home
+package space
 func Welcome(w http.ResponseWriter, r *http.Request){
 	fmt.Println("Login running")
 	t, err :=template.ParseFiles("templates/welcome.html")
