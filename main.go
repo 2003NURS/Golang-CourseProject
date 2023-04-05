@@ -1,7 +1,7 @@
 // "\main.go"
 package main
 import (
-	"github.com/2003NURS/Golang-CourseProject/app/space"
+	"github.com/2003NURS/Golang-CourseProject.git/app/space"
 )
 
 func main(){
